@@ -1,0 +1,34 @@
+package lists.challenge.two;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        Integer one = 1;
+        Integer two = 2;
+        Integer three = 3;
+        Integer four = 4;
+        Integer five = -55;
+        Integer five2 = 9;
+        Integer five3 = -1;
+        Integer five4 = 7;
+
+        IntegerLinkedList list = new IntegerLinkedList();
+        list.insertSorted(three);
+        list.printList();
+        list.insertSorted(two);
+        list.printList();
+        list.insertSorted(one);
+        list.printList();
+        list.insertSorted(four);
+        list.printList();
+        list.insertSorted(five);
+        list.printList();
+        list.insertSorted(five2);
+        list.printList();
+        list.insertSorted(five3);
+        list.printList();
+        list.insertSorted(five4);
+        list.printList();
+    }
+}
