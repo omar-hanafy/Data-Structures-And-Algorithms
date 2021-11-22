@@ -1,5 +1,5 @@
 
-package sort.shell;
+package sorts.shell;
 
 import java.util.Arrays;
 

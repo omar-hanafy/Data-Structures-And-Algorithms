@@ -1,4 +1,5 @@
 package lists.linkedlists.doubly;
+import employee.Employee;
 
 public class EmployeeNode {
 

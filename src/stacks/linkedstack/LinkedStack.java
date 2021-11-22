@@ -1,4 +1,5 @@
 package stacks.linkedstack;
+import employee.Employee;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

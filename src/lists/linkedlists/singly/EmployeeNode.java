@@ -1,4 +1,5 @@
 package lists.linkedlists.singly;
+import employee.Employee;
 
 public class EmployeeNode {
 

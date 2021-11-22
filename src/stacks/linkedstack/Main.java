@@ -1,4 +1,5 @@
 package stacks.linkedstack;
+import employee.Employee;
 
 public class Main {
 
@@ -17,15 +18,13 @@ public class Main {
         stack.push(mikeWilson);
         stack.push(billEnd);
 
-        //stack.printStack();
+        /// stack.printStack();
 
-        //System.out.println(stack.peek());
-        //stack.printStack();
+        /// System.out.println(stack.peek());
+        /// stack.printStack();
 
         System.out.println("Popped: " + stack.pop());
         System.out.println(stack.peek());
-
-
 
     }
 }

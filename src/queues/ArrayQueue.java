@@ -2,6 +2,7 @@ package queues;
 
 import java.util.Arrays;
 import java.util.NoSuchElementException;
+import employee.Employee;
 
 public class ArrayQueue {
 

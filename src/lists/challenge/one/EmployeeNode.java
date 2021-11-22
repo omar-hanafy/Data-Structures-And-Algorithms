@@ -1,4 +1,5 @@
 package lists.challenge.one;
+import employee.Employee;
 
 public class EmployeeNode {
 
