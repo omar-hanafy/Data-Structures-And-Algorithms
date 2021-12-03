@@ -13,6 +13,7 @@
 <h2><a href="src/sorts" style="text-decoration:none">
 <img src="./assets/Algorithm.png" width="50" height="50"> Sorting Algorithms.
 </a></h2>
+
 - [Bubble](src/sorts/bubble)
 
 - [Selection](src/sorts/selection)
