@@ -1,6 +1,5 @@
-package queues;
+package queue;
 
-import java.util.Arrays;
 import java.util.NoSuchElementException;
 import employee.Employee;
 

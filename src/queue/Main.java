@@ -1,7 +1,5 @@
-package queues;
+package queue;
 import employee.Employee;
-
-import java.util.Arrays;
 
 public class Main {
 

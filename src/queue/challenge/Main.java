@@ -1,4 +1,4 @@
-package queues.challenge;
+package queue.challenge;
 
 import java.util.LinkedList;
 
